@@ -14,7 +14,7 @@ namespace Funcoes_String
         {
             string frase = "Hoje a noite, sem luz, decidi xeretar a quinta gaveta de vovô: achei linguiça, pão e fubá";
 
-            string frase_trocada = frase.Replace("VOVô", "mamãe", true, CultureInfo.CurrentCulture); //Replace() pode substituir cadeias de caracteres ou caracteres únicos.
+            string frase_trocada = frase.Replace("VOVô", "mamãe"); //Replace() pode substituir cadeias de caracteres ou caracteres únicos.
 
             WriteLine(frase_trocada);
 
