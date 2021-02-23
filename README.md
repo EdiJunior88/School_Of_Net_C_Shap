@@ -8,4 +8,6 @@ utilizar Collections e Generics, entre outras funcionalidades.
 <hr/>
 
 <h4><b>Aulas:</b> :vhs: 13 video-aulas</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> :lock: Pausado</h4>
+
+<!-- <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4> -->
